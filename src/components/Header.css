@@ -1,0 +1,10 @@
+.Header_app {
+    border-bottom: 2px solid orange;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    margin: 5rem;
+}
